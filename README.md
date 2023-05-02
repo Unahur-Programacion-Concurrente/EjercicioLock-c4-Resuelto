@@ -21,4 +21,4 @@ Leer y analizar el código y tratar de deducir que hace cada bloque.
 8. Que son los Locks o Mutex? *Bonus (opcional): que es un "deadlock"?, como se produce y que consecuencias tiene?*
 
 
-<sub>[Daniel Buaon - unahur-progra-concu-1-2021](https://github.com/Unahur-Programacion-Concurrente)</sub>
+<sub>[Daniel Buaon - Unahur-Programacion-Concurrente](https://github.com/Unahur-Programacion-Concurrente)</sub>
